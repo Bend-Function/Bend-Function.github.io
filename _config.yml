@@ -61,12 +61,6 @@ footer-text:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # fromendworld
 
-# Gitalk
-gitalk:
-  clientID: 0984d264fd72fbe57ed6
-  clientSecret: 6f39942e2ac8f9e22af4f4310fa17e474b2c4d4e
-  repo: https://github.com/Bend-Function/Bend-Function.github.io
-  owner: Bend-Function
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
