@@ -20,13 +20,13 @@ favicon: https://avatars.githubusercontent.com/u/42468146?s=40&v=4
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: Index
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 归档
+  - name: Achieve
     url: /archive
-  - name: 标签
+  - name: Tags
     url: /tags
 
 # Pagination
