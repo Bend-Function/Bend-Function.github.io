@@ -1,6 +1,6 @@
 # A Concert Review
 
-This is the first time I want to a concert by myself. The title for the concert called
+This is the first time I had an idea to a concert by myself. The title for the concert called
 
 _Anime Piano Concert From Butter-Fly to I love you in Natsume's -- I wanna say 'I love you' loudly_ 
 
@@ -41,6 +41,8 @@ I still remembered about 8 years ago, we had to quene for ticket. But now we mer
 
 A man asked me he wanted to buy my ticket however I had not any tickets left I just bought one for me. I asked him for how much if I bought a ticket from him. He told me that his tickets had 30% discount(but I thought the position would really bad).
 
+I try to find a list for the concert but they did't prepare it for audiences.
+
 ## Find seat
 
 My seat was in Row 15, No. 20. The seating arrangement of the theatre is unusual. No.1 seats of each row are in the middle and seats which have odd number are on the left side even number seats are on the right side.
@@ -57,18 +59,24 @@ After performanced he introduced himself and told the reason why he is a substit
 
 In this part, there were many my favourite music like "secret base" from "The flower we saw that day" and a series music from "You lie in April". I almost cried when I heard that. I remembered I always listen "secret base" after working on the way to dorm in school. 
 
-At the end of semester of year 2 I always got up at 8 AM and went to lab to study. In the evening, I usually cross the woods near the lake and listening "Secret Base" to my dorm. These days was the most hardly period in my life and I am very satisfied myself because I really leart a lot during these days even just myself in the lab. Also I was not to choose to play video games or get up at noon like most of classmates. Although I was very tired these days and nobody accompanied with me, the feeling during that days is wonderful. I had a lot of things I really want to do. That's the life I desire for.
+At the end of semester of year 2 I always got up at 8 AM and went to lab to study. In the evening, I usually cross the woods near the lake and listening "Secret Base" to my dorm. These days was the most hardly period in my life and I am very satisfied myself because I really learnt a lot during these days even just myself in the lab. Also I was not to choose to play video games all day or get up at noon like most of classmates. Although I was very tired these days and nobody accompanied with me, the feeling during that days is wonderful. I had a lot of things I really want to do. That's the life I desire for.
 
 ## Second half of concert
 
-xxx
+The first music began at the half part was the Twelve Variations on "Ah vous dirai-je, Maman" by Mozart. This piano composition appeared in "Your Lie in April" many times. The pianist let audiences to create a wechat group during the performance to find new firends especially single person. Also audiences can rise and swing phones which turn on the flash light following the tune. Unfortunately I failed to join to the Wechat group because I turned off Wi-fi(Wechat based on it to locate you). 
+
+By the way, Using this music to meet someone which will be your boyfriend or girlfriend is really weird. Because it from "Your Lie in April" which is a tragedy, the main charactor passed in the end of the story.
+
+The music which got the most reactive was "I love you" from "Natsume's Book of Friends" after singer and pianist stoped their performance audiences gave them the thunder of applause.
 
 ## After ended
 
-xxx 3 music added
+After last music in list palyed, the pianist said "It's the last music in the list" and exited from stage. The applause from loud to tepid most of audience didn't know if they keep applauding ther would get other extra music preformances. So I was keep applauding and then many audience returned to applaud with me. 10 seconds after the pianist came back and played "summer" bacause the hot weather in Hangzhou he said. Then he also played "Theme of Mitsuha" form "Your Name" which is one of my favourite anime movie. Finally an unknew name song was singing form singer as the last music for the concert.
+
+Everyone applauded when the concert ended. The pianist and singer also received flowers In the end.
 
 ## On the way to home
 
-xxx
+I choosed to take metro back my home.
 
 ## ----- Not the END -----
