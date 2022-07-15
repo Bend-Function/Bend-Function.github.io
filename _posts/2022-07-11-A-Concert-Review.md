@@ -73,10 +73,10 @@ The music which got the most reactive was "I love you" from "Natsume's Book of F
 
 After last music in list palyed, the pianist said "It's the last music in the list" and exited from stage. The applause from loud to tepid most of audience didn't know if they keep applauding ther would get other extra music preformances. So I was keep applauding and then many audience returned to applaud with me. 10 seconds after the pianist came back and played "summer" bacause the hot weather in Hangzhou he said. Then he also played "Theme of Mitsuha" form "Your Name" which is one of my favourite anime movie. Finally an unknew name song was singing form singer as the last music for the concert.
 
-Everyone applauded when the concert ended. The pianist and singer also received flowers In the end.
+Everyone applauded when the concert ended. The pianist and singer also received flowers in the end.
 
 ## On the way to home
 
-I choosed to take metro back my home.
+I chose to take metro back my home. And had finished my daily study plan on the train.
 
-## ----- Not the END -----
+## ----- END -----
